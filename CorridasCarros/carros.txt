@@ -1,0 +1,6 @@
+10 20 150 ferrari red
+6 15 160 renault megane
+7 20 100 bmw
+9 22 200 peugeot 306
+10 30 100 audi r5
+5 10 50 renault 

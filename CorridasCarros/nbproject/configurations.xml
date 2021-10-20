@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>Autodromo.h</itemPath>
+      <itemPath>Campeonato.h</itemPath>
+      <itemPath>Carro.h</itemPath>
+      <itemPath>Comandos.h</itemPath>
+      <itemPath>Corrida.h</itemPath>
+      <itemPath>Crazy.h</itemPath>
+      <itemPath>DGV.h</itemPath>
+      <itemPath>Interface.h</itemPath>
+      <itemPath>Piloto.h</itemPath>
+      <itemPath>Rapido.h</itemPath>
+      <itemPath>Surpresa.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>Autodromo.cpp</itemPath>
+      <itemPath>Campeonato.cpp</itemPath>
+      <itemPath>Carro.cpp</itemPath>
+      <itemPath>Comandos.cpp</itemPath>
+      <itemPath>Corrida.cpp</itemPath>
+      <itemPath>Crazy.cpp</itemPath>
+      <itemPath>DGV.cpp</itemPath>
+      <itemPath>Interface.cpp</itemPath>
+      <itemPath>Piloto.cpp</itemPath>
+      <itemPath>Rapido.cpp</itemPath>
+      <itemPath>Surpresa.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <standard>8</standard>
+        </ccTool>
+      </compileType>
+      <item path="Autodromo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Autodromo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Campeonato.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Campeonato.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Carro.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Carro.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Comandos.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Comandos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Corrida.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Corrida.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Crazy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Crazy.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DGV.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DGV.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Interface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Interface.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Piloto.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Piloto.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Rapido.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Rapido.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Surpresa.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Surpresa.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+          <standard>8</standard>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="Autodromo.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Autodromo.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Campeonato.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Campeonato.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Carro.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Carro.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Comandos.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Comandos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Corrida.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Corrida.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Crazy.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Crazy.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DGV.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DGV.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Interface.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Interface.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Piloto.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Piloto.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Rapido.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Rapido.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Surpresa.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Surpresa.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
